@@ -1,0 +1,181 @@
+[
+  {
+    title: 'In-N-Out Burger',
+    address: '9149 S Sepulveda Blvd, Los Angeles, California',
+    newUrl: 'https://www.tripadvisor.com/Restaurant_Review-g32655-d1006054-Reviews-In_N_Out_Burger-Los_Angeles_California.html',
+    moreData: 'https://maps.google.com/maps/api/staticmap?&channel=ta.desktop.restaurant_review&zoom=15&size=347x137&scale=1&client=gme-tripadvisorinc&format=jpg&sensor=false&language=en_US&center=33.953655,-118.396858&maptype=roadmap&&markers=icon:http%3A%2F%2Fc1.tacdn.com%2F%2Fimg2%2Fmaps%2Ficons%2Fcomponent_map_pins_v1%2FR_Pin_Small.png|33.953655,-118.396858&signature=pP0sOAzDEViIJmFXWyC-m9_EQsc='  
+  },
+  {
+    title: 'California Burger Co.',
+    address: '1001 Heavenly Village Way, South Lake Tahoe, Lake Tahoe (California), California',
+    newUrl: 'https://www.tripadvisor.com/Restaurant_Review-g1798615-d8552984-Reviews-California_Burger_Co-South_Lake_Tahoe_Lake_Tahoe_California_California.html',    moreData: 'https://maps.google.com/maps/api/staticmap?&channel=ta.desktop.restaurant_review&zoom=15&size=347x137&scale=1&client=gme-tripadvisorinc&format=jpg&sensor=false&language=en_US&center=38.955414,-119.944183&maptype=roadmap&&markers=icon:http%3A%2F%2Fc1.tacdn.com%2F%2Fimg2%2Fmaps%2Ficons%2Fcomponent_map_pins_v1%2FR_Pin_Small.png|38.955414,-119.944183&signature=tjvAKCU8A9tL-rr-zJk7xR287SU='  
+  },
+  {
+    title: 'california PIZZA KITCHEN',
+    address: '6801 Hollywood Blvd, West Hollywood, California',
+    newUrl: 'https://www.tripadvisor.com/Restaurant_Review-g33252-d376005-Reviews-California_PIZZA_KITCHEN-West_Hollywood_California.html',
+    moreData: 'https://maps.google.com/maps/api/staticmap?&channel=ta.desktop.restaurant_review&zoom=15&size=347x137&scale=1&client=gme-tripadvisorinc&format=jpg&sensor=false&language=en_US&center=34.101772,-118.340134&maptype=roadmap&&markers=icon:http%3A%2F%2Fc1.tacdn.com%2F%2Fimg2%2Fmaps%2Ficons%2Fcomponent_map_pins_v1%2FR_Pin_Small.png|34.101772,-118.340134&signature=OW73e0XuiSSg2CSsG_ZmxIT5Az0='  
+  },
+  {
+    title: "Nick's Laguna Beach",
+    address: '440 S Coast Hwy, Laguna Beach, California',
+    newUrl: 'https://www.tripadvisor.com/Restaurant_Review-g32588-d1149194-Reviews-Nick_s_Laguna_Beach-Laguna_Beach_California.html',
+    moreData: 'https://maps.google.com/maps/api/staticmap?&channel=ta.desktop.restaurant_review&zoom=15&size=347x137&scale=1&client=gme-tripadvisorinc&format=jpg&sensor=false&language=en_US&center=33.541328,-117.782578&maptype=roadmap&&markers=icon:http%3A%2F%2Fc1.tacdn.com%2F%2Fimg2%2Fmaps%2Ficons%2Fcomponent_map_pins_v1%2FR_Pin_Small.png|33.541328,-117.782578&signature=tAzm8yAG_oRuhJZaN1ARATWAouw='  
+  },
+  {
+    title: 'California Pizza Kitchen Anaheim',
+    address: '321 W Katella Ave, Anaheim, California',
+    newUrl: 'https://www.tripadvisor.com/Restaurant_Review-g29092-d1762962-Reviews-California_Pizza_Kitchen_Anaheim-Anaheim_California.html',
+    moreData: 'https://maps.google.com/maps/api/staticmap?&channel=ta.desktop.restaurant_review&zoom=15&size=347x137&scale=1&client=gme-tripadvisorinc&format=jpg&sensor=false&language=en_US&center=33.803493,-117.910706&maptype=roadmap&&markers=icon:http%3A%2F%2Fc1.tacdn.com%2F%2Fimg2%2Fmaps%2Ficons%2Fcomponent_map_pins_v1%2FR_Pin_Small.png|33.803493,-117.910706&signature=fGSxHtmPm937UrOkS-UVD5HzQ2o='  
+  },
+  {
+    title: "Hula's Island Grill",
+    address: '622 Lighthouse Ave, Monterey, Monterey County, California',        
+    newUrl: 'https://www.tripadvisor.com/Restaurant_Review-g32737-d517120-Reviews-Hula_s_Island_Grill-Monterey_Monterey_County_California.html',
+    moreData: 'https://maps.google.com/maps/api/staticmap?&channel=ta.desktop.restaurant_review&zoom=15&size=347x137&scale=1&client=gme-tripadvisorinc&format=jpg&sensor=false&language=en_US&center=36.614006,-121.901917&maptype=roadmap&&markers=icon:http%3A%2F%2Fc1.tacdn.com%2F%2Fimg2%2Fmaps%2Ficons%2Fcomponent_map_pins_v1%2FR_Pin_Small.png|36.614006,-121.901917&signature=dwjfQ73X-HRrnz7gyyZERYykw5E='  
+  },
+  {
+    title: 'In-N-Out Burger',
+    address: '5950 Avenida Encinas, Carlsbad, California',
+    newUrl: 'https://www.tripadvisor.com/Restaurant_Review-g32171-d2445692-Reviews-In_N_Out_Burger-Carlsbad_California.html',
+    moreData: 'https://maps.google.com/maps/api/staticmap?&channel=ta.desktop.restaurant_review&zoom=15&size=347x137&scale=1&client=gme-tripadvisorinc&format=jpg&sensor=false&language=en_US&center=33.125057,-117.324654&maptype=roadmap&&markers=icon:http%3A%2F%2Fc1.tacdn.com%2F%2Fimg2%2Fmaps%2Ficons%2Fcomponent_map_pins_v1%2FR_Pin_Small.png|33.125057,-117.324654&signature=acVqzbgkUhk9hfG089BAq2NT7gk='  
+  },
+  {
+    title: 'La Cosecha Bar + Restaurant',
+    address: '835 12th St, Paso Robles, San Luis Obispo County, California',     
+    newUrl: 'https://www.tripadvisor.com/Restaurant_Review-g32861-d4540739-Reviews-La_Cosecha_Bar_Restaurant-Paso_Robles_San_Luis_Obispo_County_California.html', 
+    moreData: 'https://maps.google.com/maps/api/staticmap?&channel=ta.desktop.restaurant_review&zoom=15&size=347x137&scale=1&client=gme-tripadvisorinc&format=jpg&sensor=false&language=en_US&center=35.626850,-120.689468&maptype=roadmap&&markers=icon:http%3A%2F%2Fc1.tacdn.com%2F%2Fimg2%2Fmaps%2Ficons%2Fcomponent_map_pins_v1%2FR_Pin_Small.png|35.626850,-120.689468&signature=wkYu-_TfeS3DXQTMb2FKcRPoKko='  
+  },
+  {
+    title: 'Montrio Bistro',
+    address: '414 Calle Principal, Monterey, Monterey County, California',       
+    newUrl: 'https://www.tripadvisor.com/Restaurant_Review-g32737-d360671-Reviews-Montrio_Bistro-Monterey_Monterey_County_California.html',
+    moreData: 'https://maps.google.com/maps/api/staticmap?&channel=ta.desktop.restaurant_review&zoom=15&size=347x137&scale=1&client=gme-tripadvisorinc&format=jpg&sensor=false&language=en_US&center=36.599754,-121.895271&maptype=roadmap&&markers=icon:http%3A%2F%2Fc1.tacdn.com%2F%2Fimg2%2Fmaps%2Ficons%2Fcomponent_map_pins_v1%2FR_Pin_Small.png|36.599754,-121.895271&signature=8lG6OV-M2voZA_NjPM8A4YVhQDU='  
+  },
+  {
+    title: "Porto's Bakery & Cafe",
+    address: '315 N Brand Blvd, Glendale, California',
+    newUrl: 'https://www.tripadvisor.com/Restaurant_Review-g32431-d364707-Reviews-Porto_s_Bakery_Cafe-Glendale_California.html',
+    moreData: 'https://maps.google.com/maps/api/staticmap?&channel=ta.desktop.restaurant_review&zoom=15&size=347x137&scale=1&client=gme-tripadvisorinc&format=jpg&sensor=false&language=en_US&center=34.150368,-118.255310&maptype=roadmap&&markers=icon:http%3A%2F%2Fc1.tacdn.com%2F%2Fimg2%2Fmaps%2Ficons%2Fcomponent_map_pins_v1%2FR_Pin_Small.png|34.150368,-118.255310&signature=Wm9ONUJPjM8E8j7OMo5zUSGsvMw='  
+  },
+  {
+    title: 'Carthay Circle Restaurant',
+    address: '1313 Disneyland Drive, Anaheim, California',
+    newUrl: 'https://www.tripadvisor.com/Restaurant_Review-g29092-d3292551-Reviews-Carthay_Circle_Restaurant-Anaheim_California.html',
+    moreData: 'https://maps.google.com/maps/api/staticmap?&channel=ta.desktop.restaurant_review&zoom=15&size=347x137&scale=1&client=gme-tripadvisorinc&format=jpg&sensor=false&language=en_US&center=33.807484,-117.918999&maptype=roadmap&&markers=icon:http%3A%2F%2Fc1.tacdn.com%2F%2Fimg2%2Fmaps%2Ficons%2Fcomponent_map_pins_v1%2FR_Pin_Small.png|33.807484,-117.918999&signature=YCbBzqCILkoiq_-RDPsFL3Lxjo8='  
+  },
+  {
+    title: 'In N Out Burger',
+    address: '18062 Beach Blvd, Huntington Beach, California',
+    newUrl: 'https://www.tripadvisor.com/Restaurant_Review-g32513-d800200-Reviews-In_N_Out_Burger-Huntington_Beach_California.html',
+    moreData: 'https://maps.google.com/maps/api/staticmap?&channel=ta.desktop.restaurant_review&zoom=15&size=347x137&scale=1&client=gme-tripadvisorinc&format=jpg&sensor=false&language=en_US&center=33.700417,-117.988655&maptype=roadmap&&markers=icon:http%3A%2F%2Fc1.tacdn.com%2F%2Fimg2%2Fmaps%2Ficons%2Fcomponent_map_pins_v1%2FR_Pin_Small.png|33.700417,-117.988655&signature=SJmnjLM1spnUIW8rBcuHpBK7aVc='  
+  },
+  {
+    title: 'California Pizza Kitchen',
+    address: '73080 El Paseo Ste 8, Palm Desert, Greater Palm Springs, California',
+    newUrl: 'https://www.tripadvisor.com/Restaurant_Review-g32846-d369918-Reviews-California_Pizza_Kitchen-Palm_Desert_Greater_Palm_Springs_California.html',     
+    moreData: 'https://maps.google.com/maps/api/staticmap?&channel=ta.desktop.restaurant_review&zoom=15&size=347x137&scale=1&client=gme-tripadvisorinc&format=jpg&sensor=false&language=en_US&center=33.719913,-116.389664&maptype=roadmap&&markers=icon:http%3A%2F%2Fc1.tacdn.com%2F%2Fimg2%2Fmaps%2Ficons%2Fcomponent_map_pins_v1%2FR_Pin_Small.png|33.719913,-116.389664&signature=CO9jAHsDVyDoIN65RnhAgchyHak='  
+  },
+  {
+    title: 'Tadich Grill',
+    address: '240 California St, San Francisco, California',
+    newUrl: 'https://www.tripadvisor.com/Restaurant_Review-g60713-d353920-Reviews-Tadich_Grill-San_Francisco_California.html',
+    moreData: 'https://maps.google.com/maps/api/staticmap?&channel=ta.desktop.restaurant_review&zoom=15&size=347x137&scale=1&client=gme-tripadvisorinc&format=jpg&sensor=false&language=en_US&center=37.793419,-122.399467&maptype=roadmap&&markers=icon:http%3A%2F%2Fc1.tacdn.com%2F%2Fimg2%2Fmaps%2Ficons%2Fcomponent_map_pins_v1%2FR_Pin_Small.png|37.793419,-122.399467&signature=Skfcd2j3dlwxBtvgeaQlBcta2d8='  
+  },
+  {
+    title: "Rosa's Italian Restaurant",
+    address: '491 Price St, Pismo Beach, San Luis Obispo County, California',    
+    newUrl: 'https://www.tripadvisor.com/Restaurant_Review-g32894-d510037-Reviews-Rosa_s_Italian_Restaurant-Pismo_Beach_San_Luis_Obispo_County_California.html',  
+    moreData: 'https://maps.google.com/maps/api/staticmap?&channel=ta.desktop.restaurant_review&zoom=15&size=347x137&scale=1&client=gme-tripadvisorinc&format=jpg&sensor=false&language=en_US&center=35.140129,-120.638435&maptype=roadmap&&markers=icon:http%3A%2F%2Fc1.tacdn.com%2F%2Fimg2%2Fmaps%2Ficons%2Fcomponent_map_pins_v1%2FR_Pin_Small.png|35.140129,-120.638435&signature=lgus3J_NjfrKvrq4scPE9mAjQQY='  
+  },
+  {
+    title: 'Carthay Circle Lounge',
+    address: '1313 Disneyland Drive, Anaheim, California',
+    newUrl: 'https://www.tripadvisor.com/Restaurant_Review-g29092-d8564076-Reviews-Carthay_Circle_Lounge-Anaheim_California.html',
+    moreData: 'https://maps.google.com/maps/api/staticmap?&channel=ta.desktop.restaurant_review&zoom=15&size=347x137&scale=1&client=gme-tripadvisorinc&format=jpg&sensor=false&language=en_US&center=33.807590,-117.919014&maptype=roadmap&&markers=icon:http%3A%2F%2Fc1.tacdn.com%2F%2Fimg2%2Fmaps%2Ficons%2Fcomponent_map_pins_v1%2FR_Pin_Small.png|33.807590,-117.919014&signature=P8RxwmzVaqsW8UEa7PYmbnJ8QWc='  
+  },
+  {
+    title: 'Lucha Libre Taco Shop',
+    address: '1810 W Washington St, San Diego, California',
+    newUrl: 'https://www.tripadvisor.com/Restaurant_Review-g60750-d1018217-Reviews-Lucha_Libre_Taco_Shop-San_Diego_California.html',
+    moreData: 'https://maps.google.com/maps/api/staticmap?&channel=ta.desktop.restaurant_review&zoom=15&size=347x137&scale=1&client=gme-tripadvisorinc&format=jpg&sensor=false&language=en_US&center=32.743156,-117.181602&maptype=roadmap&&markers=icon:http%3A%2F%2Fc1.tacdn.com%2F%2Fimg2%2Fmaps%2Ficons%2Fcomponent_map_pins_v1%2FR_Pin_Small.png|32.743156,-117.181602&signature=x36kLLS5LarEUfRxt1jWb3C0nMY='  
+  },
+  {
+    title: 'Lure Fish House',
+    address: '60 S California St, Ventura, California',
+    newUrl: 'https://www.tripadvisor.com/Restaurant_Review-g60769-d3647320-Reviews-Lure_Fish_House-Ventura_California.html',
+    moreData: 'https://maps.google.com/maps/api/staticmap?&channel=ta.desktop.restaurant_review&zoom=15&size=347x137&scale=1&client=gme-tripadvisorinc&format=jpg&sensor=false&language=en_US&center=34.280109,-119.292809&maptype=roadmap&&markers=icon:http%3A%2F%2Fc1.tacdn.com%2F%2Fimg2%2Fmaps%2Ficons%2Fcomponent_map_pins_v1%2FR_Pin_Small.png|34.280109,-119.292809&signature=BZfJnWodS16vJalGSbCeclIBbhc='  
+  },
+  {
+    title: 'Wine Country Trattoria',
+    address: 'Anaheim, California',
+    newUrl: 'https://www.tripadvisor.com/Restaurant_Review-g29092-d1516563-Reviews-Wine_Country_Trattoria-Anaheim_California.html',
+    moreData: 'https://maps.google.com/maps/api/staticmap?&channel=ta.desktop.restaurant_review&zoom=15&size=347x137&scale=1&client=gme-tripadvisorinc&format=jpg&sensor=false&language=en_US&center=33.806419,-117.919930&maptype=roadmap&&markers=icon:http%3A%2F%2Fc1.tacdn.com%2F%2Fimg2%2Fmaps%2Ficons%2Fcomponent_map_pins_v1%2FR_Pin_Small.png|33.806419,-117.919930&signature=C_6IZu0wK8RhVXvGrAPMYeB2BW0='  
+  },
+  {
+    title: 'In-N-Out Burger',
+    address: '4115 Campus Dr., Irvine, California',
+    newUrl: 'https://www.tripadvisor.com/Restaurant_Review-g32530-d787729-Reviews-In_N_Out_Burger-Irvine_California.html',
+    moreData: 'https://maps.google.com/maps/api/staticmap?&channel=ta.desktop.restaurant_review&zoom=15&size=347x137&scale=1&client=gme-tripadvisorinc&format=jpg&sensor=false&language=en_US&center=33.650227,-117.840683&maptype=roadmap&&markers=icon:http%3A%2F%2Fc1.tacdn.com%2F%2Fimg2%2Fmaps%2Ficons%2Fcomponent_map_pins_v1%2FR_Pin_Small.png|33.650227,-117.840683&signature=r_xc-QaDJYUXI2_IAC7cIhN7q7Q='  
+  },
+  {
+    title: 'Sierra Mar',
+    address: '47900 Highway 1, Big Sur, California',
+    newUrl: 'https://www.tripadvisor.com/Restaurant_Review-g240329-d494262-Reviews-Sierra_Mar-Big_Sur_California.html',
+    moreData: 'https://maps.google.com/maps/api/staticmap?&channel=ta.desktop.restaurant_review&zoom=15&size=347x137&scale=1&client=gme-tripadvisorinc&format=jpg&sensor=false&language=en_US&center=36.229771,-121.771759&maptype=roadmap&&markers=icon:http%3A%2F%2Fc1.tacdn.com%2F%2Fimg2%2Fmaps%2Ficons%2Fcomponent_map_pins_v1%2FR_Pin_Small.png|36.229771,-121.771759&signature=zJDOK-XwlAojqkCBIXxDN-Cbfcw='  
+  },
+  {
+    title: 'Moonshadows',
+    address: '20356 Pacific Coast Hwy, Malibu, California',
+    newUrl: 'https://www.tripadvisor.com/Restaurant_Review-g32676-d348793-Reviews-Moonshadows-Malibu_California.html',
+    moreData: 'https://maps.google.com/maps/api/staticmap?&channel=ta.desktop.restaurant_review&zoom=15&size=347x137&scale=1&client=gme-tripadvisorinc&format=jpg&sensor=false&language=en_US&center=34.037533,-118.618507&maptype=roadmap&&markers=icon:http%3A%2F%2Fc1.tacdn.com%2F%2Fimg2%2Fmaps%2Ficons%2Fcomponent_map_pins_v1%2FR_Pin_Small.png|34.037533,-118.618507&signature=s0eXooeQqQKDT3mLkVUA7GgwLdI='  
+  },
+  {
+    title: 'California Pizza Kitchen',
+    address: '1151 Newport Center Dr, Newport Beach, California',
+    newUrl: 'https://www.tripadvisor.com/Restaurant_Review-g32780-d364219-Reviews-California_Pizza_Kitchen-Newport_Beach_California.html',
+    moreData: 'https://maps.google.com/maps/api/staticmap?&channel=ta.desktop.restaurant_review&zoom=15&size=347x137&scale=1&client=gme-tripadvisorinc&format=jpg&sensor=false&language=en_US&center=33.615040,-117.877022&maptype=roadmap&&markers=icon:http%3A%2F%2Fc1.tacdn.com%2F%2Fimg2%2Fmaps%2Ficons%2Fcomponent_map_pins_v1%2FR_Pin_Small.png|33.615040,-117.877022&signature=FF5X3aph0FaosJ7koOEY6K6JNhk='  
+  },
+  {
+    title: 'Ghirardelli Soda Fountain and Chocolate Shop',
+    address: '1313 Disneyland Drive, Anaheim, California',
+    newUrl: 'https://www.tripadvisor.com/Restaurant_Review-g29092-d3446236-Reviews-Ghirardelli_Soda_Fountain_and_Chocolate_Shop-Anaheim_California.html',
+    moreData: 'https://maps.google.com/maps/api/staticmap?&channel=ta.desktop.restaurant_review&zoom=15&size=347x137&scale=1&client=gme-tripadvisorinc&format=jpg&sensor=false&language=en_US&center=33.806110,-117.920860&maptype=roadmap&&markers=icon:http%3A%2F%2Fc1.tacdn.com%2F%2Fimg2%2Fmaps%2Ficons%2Fcomponent_map_pins_v1%2FR_Pin_Small.png|33.806110,-117.920860&signature=iJ5pSSJDUKCsxBm5r6V3w5huPNE='  
+  },
+  {
+    title: 'In-N-Out Burger',
+    address: '1210 N Atlantic Blvd, Alhambra, California',
+    newUrl: 'https://www.tripadvisor.com/Restaurant_Review-g29078-d801820-Reviews-In_N_Out_Burger-Alhambra_California.html',
+    moreData: 'https://maps.google.com/maps/api/staticmap?&channel=ta.desktop.restaurant_review&zoom=15&size=347x137&scale=1&client=gme-tripadvisorinc&format=jpg&sensor=false&language=en_US&center=34.106148,-118.134422&maptype=roadmap&&markers=icon:http%3A%2F%2Fc1.tacdn.com%2F%2Fimg2%2Fmaps%2Ficons%2Fcomponent_map_pins_v1%2FR_Pin_Small.png|34.106148,-118.134422&signature=B5SM0xhHSNedfva7p300-yIk50Q='  
+  },
+  {
+    title: 'California Market',
+    address: '120 Highland Dr, Carmel, Monterey County, California',
+    newUrl: 'https://www.tripadvisor.com/Restaurant_Review-g32172-d549050-Reviews-California_Market-Carmel_Monterey_County_California.html',
+    moreData: 'https://maps.google.com/maps/api/staticmap?&channel=ta.desktop.restaurant_review&zoom=15&size=347x137&scale=1&client=gme-tripadvisorinc&format=jpg&sensor=false&language=en_US&center=36.501816,-121.937645&maptype=roadmap&&markers=icon:http%3A%2F%2Fc1.tacdn.com%2F%2Fimg2%2Fmaps%2Ficons%2Fcomponent_map_pins_v1%2FR_Pin_Small.png|36.501816,-121.937645&signature=eGkb87YTMFqNxN2NouclwA2750s='  
+  },
+  {
+    title: 'Pacific Wharf Cafe',
+    address: '1313 Disneyland Drive, Anaheim, California',
+    newUrl: 'https://www.tripadvisor.com/Restaurant_Review-g29092-d1852516-Reviews-Pacific_Wharf_Cafe-Anaheim_California.html',
+    moreData: 'https://maps.google.com/maps/api/staticmap?&channel=ta.desktop.restaurant_review&zoom=15&size=347x137&scale=1&client=gme-tripadvisorinc&format=jpg&sensor=false&language=en_US&center=33.805794,-117.920174&maptype=roadmap&&markers=icon:http%3A%2F%2Fc1.tacdn.com%2F%2Fimg2%2Fmaps%2Ficons%2Fcomponent_map_pins_v1%2FR_Pin_Small.png|33.805794,-117.920174&signature=19rWhLFhuOsB1PnBdAxozzbv10M='  
+  },
+  {
+    title: "Flo's V8 Cafe",
+    address: '1313 Disneyland Drive, Anaheim, California',
+    newUrl: 'https://www.tripadvisor.com/Restaurant_Review-g29092-d3420018-Reviews-Flo_s_V8_Cafe-Anaheim_California.html',
+    moreData: 'https://maps.google.com/maps/api/staticmap?&channel=ta.desktop.restaurant_review&zoom=15&size=347x137&scale=1&client=gme-tripadvisorinc&format=jpg&sensor=false&language=en_US&center=33.805557,-117.918968&maptype=roadmap&&markers=icon:http%3A%2F%2Fc1.tacdn.com%2F%2Fimg2%2Fmaps%2Ficons%2Fcomponent_map_pins_v1%2FR_Pin_Small.png|33.805557,-117.918968&signature=0KnfaOjLPs5SFJavZsJuaQ6bUIo='  
+  },
+  {
+    title: 'Cocina Cucamonga Mexican Grill',
+    address: '1313 S. Disneyland Dr., Anaheim, California',
+    newUrl: 'https://www.tripadvisor.com/Restaurant_Review-g29092-d1852519-Reviews-Cocina_Cucamonga_Mexican_Grill-Anaheim_California.html',
+    moreData: 'https://maps.google.com/maps/api/staticmap?&channel=ta.desktop.restaurant_review&zoom=15&size=347x137&scale=1&client=gme-tripadvisorinc&format=jpg&sensor=false&language=en_US&center=33.805653,-117.920425&maptype=roadmap&&markers=icon:http%3A%2F%2Fc1.tacdn.com%2F%2Fimg2%2Fmaps%2Ficons%2Fcomponent_map_pins_v1%2FR_Pin_Small.png|33.805653,-117.920425&signature=-wt_CMPgJy8-8W9V3P-qCqCil1M='  
+  },
+  {
+    title: 'California Pizza Kitchen Pasadena',
+    address: '99 N Los Robles Ave, Pasadena, California',
+    newUrl: 'https://www.tripadvisor.com/Restaurant_Review-g32859-d343322-Reviews-California_Pizza_Kitchen_Pasadena-Pasadena_California.html',
+    moreData: 'https://maps.google.com/maps/api/staticmap?&channel=ta.desktop.restaurant_review&zoom=15&size=347x137&scale=1&client=gme-tripadvisorinc&format=jpg&sensor=false&language=en_US&center=34.147537,-118.141792&maptype=roadmap&&markers=icon:http%3A%2F%2Fc1.tacdn.com%2F%2Fimg2%2Fmaps%2Ficons%2Fcomponent_map_pins_v1%2FR_Pin_Small.png|34.147537,-118.141792&signature=ByBxduiA8SngUBol_lG06LO2gyE='  
+  }
+]

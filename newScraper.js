@@ -1,6 +1,7 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
-
+const util = require('util');
+const dataDir = "./tmp/data/data.js";
 (async()=>{
     const getAllData = async(url)=>{
         const page = await browser.newPage();
@@ -24,7 +25,7 @@ const fs = require('fs');
     let o=0;
       let data=[];
     const browser = await puppeteer.launch();
-    while(i<5){
+    while(i<=33){
         const url = 'https://www.tripadvisor.com/Search?q=California&searchSessionId=95761B888D4DAB9E59B1DC315634EE581637557678911ssid&sid=49509F70215645C0B9331891E1CA2B471637557754948&blockRedirect=true&ssrc=e&geo=28926&rf='+i+"&o="+ o;
  
         console.log("scraping ",url);
@@ -39,5 +40,19 @@ const fs = require('fs');
     await browser.close();
     console.log(data);
     console.log(data.length);
-    
+    // if(!fs.existsSync(dataDir)){
+    //     fs.mkdirSync(dataDir,{recursive:true});
+    // }
+    // let file = fs.createWriteStream('array.txt');
+    // file.on('error', function(err) { /* error handling */ });
+    // data.forEach(function(v) { 
+    //     console.log(v);
+    //     file.write(v.join(', ') + '\n'); 
+    // });
+    // file.end();
+    fs.appendFileSync(dataDir,"const data= [\n");
+    data.forEach(element=>{
+        fs.appendFileSync(dataDir,util.inspect(element)+',\n');  
+    })
+    fs.appendFileSync(dataDir,"];");
 })();
